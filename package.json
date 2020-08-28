@@ -1,0 +1,20 @@
+{
+  "name": "chroma",
+  "version": "1.0.0",
+  "description": "A simple wrapper around the Web Components API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlvinThorn008/chroma.git"
+  },
+  "keywords": ["Web Components API", "chroma", "javascript"],
+  "author": "Alvin Ogwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlvinThorn008/chroma/issues"
+  },
+  "homepage": "https://github.com/AlvinThorn008/chroma#readme"
+}
