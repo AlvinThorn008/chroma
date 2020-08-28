@@ -10,11 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/AlvinThorn008/chroma.git"
   },
-  "keywords": ["Web Components API", "chroma", "javascript"],
+  "keywords": [
+    "Web Components API",
+    "chroma",
+    "javascript"
+  ],
   "author": "AlvinThorn008",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/AlvinThorn008/chroma/issues"
   },
-  "homepage": "https://github.com/AlvinThorn008/chroma#readme"
+  "homepage": "https://github.com/AlvinThorn008/chroma#readme",
+  "devDependencies": {
+    "eslint": "^7.7.0"
+  }
 }
